@@ -1,1 +1,1 @@
-# prospect-bot
+# Prospect bot
