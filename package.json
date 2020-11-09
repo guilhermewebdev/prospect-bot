@@ -1,0 +1,10 @@
+{
+  "name": "prospect-bot",
+  "version": "1.0.0",
+  "description": "Bot para prospecçao de empresas",
+  "main": "main.js",
+  "repository": "https://github.com/guilhermewebdev/prospect-bot.git",
+  "author": "Guilherme Isaias",
+  "license": "MIT",
+  "private": false
+}
